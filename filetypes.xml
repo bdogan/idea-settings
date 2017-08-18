@@ -1,0 +1,22 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".admin" type=".env file" />
+      <mapping pattern=".api" type=".env file" />
+      <mapping pattern=".store" type=".env file" />
+      <mapping pattern=".global" type=".env file" />
+      <mapping pattern="Jenkinsfile" type="Jetpack file" />
+      <mapping ext="ctp" type="PHP" />
+      <mapping pattern="pm" type="PLAIN_TEXT" />
+      <mapping pattern="empty" type="PLAIN_TEXT" />
+      <mapping pattern="ddd" type="PLAIN_TEXT" />
+      <mapping pattern="StoreEle" type="PLAIN_TEXT" />
+      <mapping pattern="pm.php" type="PLAIN_TEXT" />
+      <mapping pattern=".secret.key" type="PLAIN_TEXT" />
+      <mapping pattern="ng" type="PLAIN_TEXT" />
+      <mapping pattern="docker-php-entrypoint" type="PLAIN_TEXT" />
+      <mapping ext="default" type="PLAIN_TEXT" />
+      <mapping ext="handebars" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
