@@ -18,7 +18,6 @@
       <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="handebars" type="PLAIN_TEXT" />
-      <mapping ext="ejs" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
