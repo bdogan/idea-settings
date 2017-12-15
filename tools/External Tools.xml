@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="/usr/local/bin/ng" />
       <option name="PARAMETERS" value="serve" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Project/platinmarket" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/Burak/Project/platinmarket" />
     </exec>
   </tool>
 </toolSet>
