@@ -1,15 +1,14 @@
-<scheme name="Monokai copy" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
+<scheme name="Monokai copy" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
-    <property name="created">2016-10-19T10:52:51</property>
+    <property name="created">2017-12-25T20:14:53</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2016.2.1.0.0</property>
-    <property name="modified">2017-04-06T10:36:09</property>
-    <property name="originalScheme">Monokai</property>
+    <property name="ideVersion">2017.3.2.0.0</property>
+    <property name="modified">2017-12-25T20:15:08</property>
+    <property name="originalScheme">_@user_Monokai</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="EDITOR_FONT_NAME" value="Monaco" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
@@ -118,6 +117,7 @@
         <option name="FOREGROUND" value="a6e22e" />
       </value>
     </option>
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
     <option name="COFFEESCRIPT.HEREDOC_CONTENT">
       <value>
         <option name="FOREGROUND" value="e6db74" />
@@ -445,7 +445,6 @@
         <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
-    <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="75715e" />
@@ -489,7 +488,6 @@
         <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
-    <option name="DEFAULT_TAG" baseAttributes="TEXT" />
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
@@ -625,7 +623,6 @@
         <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
-    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="GHERKIN_PYSTRING">
       <value>
         <option name="FOREGROUND" value="e6db74" />
@@ -677,11 +674,15 @@
         <option name="FOREGROUND" value="75715e" />
       </value>
     </option>
+    <option name="HAML_FILTER" baseAttributes="DEFAULT_LABEL" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
+    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
+    <option name="HAML_RUBY_START" baseAttributes="DEFAULT_KEYWORD" />
     <option name="HAML_STRING">
       <value>
         <option name="FOREGROUND" value="e6db74" />
@@ -692,11 +693,14 @@
         <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
+    <option name="HAML_TAG" baseAttributes="TEXT" />
     <option name="HAML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
+    <option name="HAML_TEXT" baseAttributes="TEXT" />
+    <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
@@ -719,6 +723,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="e3e3ff" />
@@ -840,7 +845,6 @@
         <option name="FOREGROUND" value="a6e22e" />
       </value>
     </option>
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.PARAMETER">
       <value>
         <option name="FOREGROUND" value="fd971f" />
@@ -857,6 +861,7 @@
         <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
+    <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
@@ -896,11 +901,6 @@
     <option name="OC.DIRECTIVE">
       <value>
         <option name="FOREGROUND" value="f92672" />
-      </value>
-    </option>
-    <option name="OC.FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="a6e22e" />
       </value>
     </option>
     <option name="OC.KEYWORD">
@@ -1466,6 +1466,12 @@
         <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
+    <option name="XML_PROLOGUE">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="XML_TAG_DATA">
       <value>
         <option name="FONT_TYPE" value="1" />
