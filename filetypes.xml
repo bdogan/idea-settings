@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="ctp" type="PHP" />
+      <mapping pattern="55" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
