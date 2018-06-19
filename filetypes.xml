@@ -11,6 +11,7 @@
       <mapping pattern="55" type="PLAIN_TEXT" />
       <mapping pattern="width" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="default" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
