@@ -12,6 +12,7 @@
       <mapping pattern="width" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
