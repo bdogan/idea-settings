@@ -5,6 +5,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="1255" type="PLAIN_TEXT" />
       <mapping pattern="port" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="height" type="PLAIN_TEXT" />
       <mapping pattern="all_pages" type="PLAIN_TEXT" />
       <mapping pattern="host" type="PLAIN_TEXT" />
