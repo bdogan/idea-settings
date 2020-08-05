@@ -1,26 +1,26 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="1255" type="PLAIN_TEXT" />
-      <mapping pattern="port" type="PLAIN_TEXT" />
-      <mapping pattern="emp_test" type="PLAIN_TEXT" />
-      <mapping pattern="platin_market_16f47dbcf2d2235217365f778f39f3bc_1940" type="PLAIN_TEXT" />
-      <mapping pattern="empty" type="PLAIN_TEXT" />
-      <mapping pattern="height" type="PLAIN_TEXT" />
-      <mapping pattern="all_pages" type="PLAIN_TEXT" />
       <mapping pattern="host" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="env" type="PLAIN_TEXT" />
+      <mapping pattern="port" type="PLAIN_TEXT" />
+      <mapping pattern="height" type="PLAIN_TEXT" />
+      <mapping pattern="Empty" type="PLAIN_TEXT" />
+      <mapping pattern="1255" type="PLAIN_TEXT" />
+      <mapping pattern="empty" type="PLAIN_TEXT" />
+      <mapping pattern="emp_test" type="PLAIN_TEXT" />
       <mapping pattern="55" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="all_pages" type="PLAIN_TEXT" />
       <mapping pattern="width" type="PLAIN_TEXT" />
-      <mapping pattern="Empty" type="PLAIN_TEXT" />
-      <mapping pattern="env" type="PLAIN_TEXT" />
+      <mapping pattern="platin_market_16f47dbcf2d2235217365f778f39f3bc_1940" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
+      <mapping ext="default" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="default" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="rdb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
