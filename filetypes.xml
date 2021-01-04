@@ -19,6 +19,7 @@
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="ANSI Aware" />
     </extensionMap>
   </component>
 </application>
